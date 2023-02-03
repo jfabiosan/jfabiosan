@@ -1,4 +1,4 @@
-### Oi, eu sou José Fabio. Obrigado pela visita. 👋
-- 🔭 Estudante de Sistemas para Internet.
-- 🌱 Primeiros passos com o framework Flutter e linguagem Dart.
-- 💬 Tenho experiência com Redes de fibra otica e Linux, mas minha paixão e objetivo é ser desenvolvedor.
+### Olá, eu sou Fabio. 👋
+- 🔭 Estudante de Sistemas para Internet na faculdade FAM.
+- 🌱 Foco em desenvolvimento Mobile com o framework Flutter e linguagem de programação Dart.
+- 💬 Tenho experiência com Redes de fibra otica e Linux.
